@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mzijin)](https://github.com/anuraghazra/github-readme-stats)
+
 **mzijin/mzijin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-大家好
+<img height="140px" src="https://camo.githubusercontent.com/0054c815c18c126d6f0f886d256250fd96394dd8da0f0514ce33e535218dc457/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d6b6f6e6773686965722673686f775f69636f6e733d74727565267468656d653d7261646963616c2662675f636f6c6f723d302c4543364336432c4646443437392c4646464337392c373346413739267468656d653d73796e746877617665266c6f63616c653d636e26686964655f7469746c653d7472756526686964655f626f726465723d74727565" data-canonical-src="https://github-readme-stats.vercel.app/api?username=mzijin&amp;show_icons=true&amp;theme=radical&amp;bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&amp;theme=synthwave&amp;locale=cn&amp;hide_title=true&amp;hide_border=true" style="max-width: 100%;">
