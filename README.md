@@ -1,9 +1,10 @@
 ### Hi there 👋
 ### 👋我是子衿👋
 
-
-Here are some ideas to get you started:
-
+### 一位很菜但不断的在提升自己的coder
+### 未来愿景
+    星光不问赶路人，岁月不负有心人
+    从此烟雨落金城，一人撑伞两人行
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
